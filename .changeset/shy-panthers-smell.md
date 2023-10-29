@@ -2,4 +2,4 @@
 '@franz-bendezu/tds-core': minor
 ---
 
-add a type button
+feat: add a type button
