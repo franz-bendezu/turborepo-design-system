@@ -1,7 +1,7 @@
 {
   "name": "@franz-bendezu/tds-core",
   "description": "A collection of react components.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Anthony Hastings <ar.hastings@gmail.com> (https://franz-bendezu.github.io/)",
   "repository": {
     "directory": "packages/tds-core",
