@@ -1,5 +1,12 @@
 # @franz-bendezu/tds-core
 
+## 0.3.0
+
+### Minor Changes
+
+- b60e596: feat: add a type button
+- 5fdf59a: feat(button): support fullWidth
+
 ## 0.2.2
 
 ### Patch Changes
