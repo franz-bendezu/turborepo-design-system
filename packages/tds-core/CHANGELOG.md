@@ -1,5 +1,11 @@
 # @franz-bendezu/tds-core
 
+## 0.4.0
+
+### Minor Changes
+
+- d524cc0: feat(tds-core): set classname for heading
+
 ## 0.3.0
 
 ### Minor Changes

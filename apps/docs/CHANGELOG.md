@@ -1,5 +1,12 @@
 # tds-docs
 
+## 0.0.5
+
+### Patch Changes
+
+- Updated dependencies [d524cc0]
+  - @franz-bendezu/tds-core@0.4.0
+
 ## 0.0.4
 
 ### Patch Changes
